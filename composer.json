@@ -1,0 +1,19 @@
+{
+    "name": "nsrat/composer-testing",
+    "type": "project",
+    "license": "proprietary",
+    "autoload": {
+        "psr-4": {
+            "Nsrat\\ComposerTesting\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Awesomeninja79",
+            "email": "nsrathore7912@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {}
+}
